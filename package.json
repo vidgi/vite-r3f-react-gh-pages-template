@@ -1,6 +1,6 @@
 {
   "name": "vite-r3f-react-gh-pages-template",
-  "version": "0.0.9",
+  "version": "0.0.0",
   "description": "A simple React Three Fiber + Vite + Github Pages starter with an import-ready CodeSandbox config.",
   "homepage": "https://vidgi.github.io/vite-r3f-react-gh-pages-template",
   "keywords": [

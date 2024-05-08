@@ -29,6 +29,15 @@ npm run preview
 npm run sandbox
 ```
 
+### Github Pages
+
+be sure to update urls in package.json and vite.config.js!
+
+```
+npm run build
+npm run deploy
+```
+
 ### CodeSandbox
 
 To create a sandbox from this starter, [import your repository URL](https://codesandbox.io/dashboard/repositories) (this repo works too), or [fork this template](https://codesandbox.io/s/react-three-fiber-vite-starter-r1tgld).
